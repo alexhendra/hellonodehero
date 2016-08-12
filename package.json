@@ -1,0 +1,22 @@
+{
+  "name": "hellonodehero",
+  "version": "1.0.0",
+  "description": "Test deployment nodejs app to Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexhendra/hellonodehero.git"
+  },
+  "keywords": [
+    "hellonodejs"
+  ],
+  "author": "Alex Hendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexhendra/hellonodehero/issues"
+  },
+  "homepage": "https://github.com/alexhendra/hellonodehero#readme"
+}
